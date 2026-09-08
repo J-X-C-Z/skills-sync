@@ -1,0 +1,14 @@
+# Local/editor files
+.DS_Store
+.vscode/
+
+# Secrets and local credentials
+*.env
+*.env.*
+*.pem
+*.key
+
+# Generated evaluation output and caches
+**/evals/*/iteration-*/
+**/.cache/
+
