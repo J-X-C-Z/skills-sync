@@ -3,7 +3,7 @@
 set -u
 
 SOURCE_DIR="${HOME}/.codex/skills"
-REPO_DIR="${HOME}/Documents/Codex/skills-sync"
+REPO_DIR="${HOME}/.codex/skills-sync"
 LOG_FILE="${TMPDIR:-/tmp}/codex-skills-sync.log"
 LOCK_DIR="${TMPDIR:-/tmp}/codex-skills-sync.lock"
 

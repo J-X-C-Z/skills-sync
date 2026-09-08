@@ -1,6 +1,6 @@
 # Shared Codex skills
 
-This repository contains custom Codex skills intended to be synchronized across computers.
+This repository contains custom Codex skills intended to be synchronized across computers. The background sync keeps its working copy at `~/.codex/skills-sync`; a convenience link may be kept under `~/Documents/Codex/skills-sync`.
 
 Each skill should live in its own top-level directory and contain a `SKILL.md` file:
 
