@@ -42,3 +42,9 @@ git add .
 git commit -m "Update skills"
 git push
 ```
+
+The macOS background job checks once per day. To synchronize immediately, run:
+
+```bash
+~/.codex/sync-installed-skills.sh
+```
