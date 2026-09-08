@@ -17,6 +17,14 @@ Do not commit API keys, tokens, credentials, caches, logs, or machine-specific s
 
 The built-in skills under `~/.codex/skills/.system` are managed separately and should not be copied here.
 
+The shared `AGENTS.md` is kept at the repository root. On macOS, point the global Codex file to it:
+
+```bash
+ln -sfn ~/.codex/skills-sync/AGENTS.md ~/.codex/AGENTS.md
+```
+
+On Windows, copy the repository's `AGENTS.md` to `%USERPROFILE%\.codex\AGENTS.md` after pulling.
+
 ## Setup on another computer
 
 ```bash
