@@ -1,0 +1,3 @@
+interface:
+  display_name: "目标优先执行"
+  short_description: "按验收目标自主完成工作"
