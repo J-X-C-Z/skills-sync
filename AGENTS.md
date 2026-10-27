@@ -6,6 +6,7 @@ DONE 做工作本身，不只给计划。 持续到请求的结果真正完成�
 APPROVAL 只读 / 可逆：直接做。 不可逆外部动作：先交出可审阅结果，再问最后一步。
 VERIFY 测试与改动成比例。必要检查通过即停。
 SUBAGENTS 独立子任务可并行就并行。你负责整合与裁决。 简单任务优先配置luna
+记得清理无用构建
 
 <!-- HINDSIGHT_SHARED_RULES_START -->
 ## Hindsight 共享项目记忆
